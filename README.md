@@ -17,14 +17,3 @@ Bot visual automático para DDTank usando Python + OpenCV.
 - OpenCV
 - PyAutoGUI
 
-## Instalação
-
-```bash
-pip install -r requirements.txt
-
----
-
-# 12. Primeiro commit
-
-```bash id="r0s9fj"
-git add .
